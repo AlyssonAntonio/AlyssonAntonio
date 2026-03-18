@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">🎓Olá, meu nome é Alysson. Tenho 18 anos e sou estudante de informática há aproximadamente 3 a 4 anos.  <br>Possuo interesse em cibersegurança, redes, configuração de serviços para internet, desenvolvimento de software e tecnologia.  <br>Atualmente estudo e pratico com foco em construir uma base sólida nos fundamentos da área.<br><br>## Habilidades<br><br>-🎨 Frontend  <br>-⚙️ Backend  <br>-🗄️ Banco de dados  <br>-🐧 Linux, com foco em Debian e distribuições baseadas nele<br><br>*Estou em aprendizado<br><br>"Às vezes, as pessoas não querem ouvir a verdade porque não querem que suas ilusões sejam destruídas." -Nietzsche</p>
+<p align="left">🎓Olá, meu nome é Alysson. Tenho 18 anos e sou estudante de informática há aproximadamente 3 a 4 anos.  <br>Possuo interesse em cibersegurança, redes, configuração de serviços para internet, desenvolvimento de software e tecnologia.  <br>Atualmente estudo e pratico com foco em construir uma base sólida nos fundamentos da área.<br><br>## Habilidades<br><br>-🎨 Frontend  <br>-⚙️ Backend  <br>-🗄️ Banco de dados  <br>-🐧 Linux, com foco em Debian e distribuições baseadas nele<br><br>*Estou em aprendizado<br><br>"Malandro é um cara inteligente por que usa da inteligencia pra sobreviver e viver bem! se não for malandro alguem te passa a perna!"</p>
 
 ###
 
