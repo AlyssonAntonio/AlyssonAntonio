@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -44,7 +45,7 @@
 
 ###
 
-<p align="left">🎓Olá, meu nome é Alysson. Tenho 18 anos e sou estudante de informática há aproximadamente 3 a 4 anos.  <br>Possuo interesse em cibersegurança, redes, configuração de serviços para internet, desenvolvimento de software e tecnologia.  <br>Atualmente estudo e pratico com foco em construir uma base sólida nos fundamentos da área.<br><br>## Habilidades<br><br>-🎨 Frontend  <br>-⚙️ Backend  <br>-🗄️ Banco de dados  <br>-🐧 Linux, com foco em Debian e distribuições baseadas nele<br><br>*Estou em aprendizado<br><br>“Malandro é um cara inteligente, porque usa da inteligência pra sobreviver e viver bem. Se não for malandro, alguém te passa a perna.”</p>
+<p align="left">🎓Olá, meu nome é Alysson. Tenho 18 anos e sou estudante de informática há aproximadamente 3 a 4 anos.  <br>Possuo interesse em cibersegurança, redes, configuração de serviços para internet, desenvolvimento de software e tecnologia.  <br>Atualmente estudo e pratico com foco em construir uma base sólida nos fundamentos da área.<br><br><h3>Formação</h3><p>--> Estudei no Instituto federal de mato grosso do sul - IFMS-CG Informatica</p><p>--> Estou estudando Ciencia da computação(CC) na UFMS-CG<br><h3>Habilidades</h3>-🎨 Frontend  <br>-⚙️ Backend  <br>-🗄️ Banco de dados  <br>-🐧 Linux, com foco em Debian e distribuições baseadas nele<br><br>*Estou em aprendizado<br><br>“Malandro é um cara inteligente, porque usa da inteligência pra sobreviver e viver bem. Se não for malandro, alguém te passa a perna.”</p>
 
 ###
 
